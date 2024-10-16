@@ -84,6 +84,10 @@ body.appear {
   display: block;
 }
 
+body.variant-challenger-1 {
+    font-size: 72px !important;
+}
+
 header {
   height: var(--nav-height);
 }
